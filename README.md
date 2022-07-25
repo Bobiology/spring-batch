@@ -1,8 +1,8 @@
 # spring-batch
 A sample spring-batch file processor
 
-TO TEST
+__TO TEST__
 
-##METHOD: GET
+__METHOD__: GET
 
-ENDPOINT: http://localhost:8585/load
+__ENDPOINT__: http://localhost:8585/load
